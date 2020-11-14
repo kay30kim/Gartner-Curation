@@ -10,4 +10,5 @@ So, I decided that I need to make effort not only programming skills but also th
 
 ## Site
 https://www.gartner.com/en
+
 All copyrights belong to Gartner. I use this repository for personal study only without any profit creation. I will also write all the report sources.
