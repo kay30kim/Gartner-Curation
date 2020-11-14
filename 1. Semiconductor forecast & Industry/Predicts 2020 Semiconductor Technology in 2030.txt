@@ -1,0 +1,11 @@
+Published: 03 March 2020
+
+ID: G00465019
+
+Analyst(s): Bob Johnson , Martin Reynolds , Joseph Unsworth , Samuel Wang , Alan Priestley , Gaurav Gupta
+
+Summary
+By 2030, improvements in semiconductor performance will result from innovations in chip architecture, heterogeneous integration via advanced packaging, and software, as well as the advent of new compute technologies into practical use. Product managers should monitor and exploit these improvements.
+
+반도체 성능의 향상은 칩 아키텍쳐의 혁신적 변화로 2030년까지 이어질 전망.
+또한, 새로운 컴퓨팅 기술의 실용화 작업이 시작되었으며, 고급패키징 및 S/W를 통한 이종집적화의 발전도 반도체 성능 향상의 결과로서 나타날 것.
